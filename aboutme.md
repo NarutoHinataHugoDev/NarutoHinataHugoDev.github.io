@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Personal Information
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Hinata Hugo. Here's a bit about me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a student from India with a passion for OSINT (Open Source Intelligence) and security.
+- I am a huge fan of Naruto and enjoy exploring its vast universe.
 
-What else do you need?
+Feel free to connect with me to discuss anything related to OSINT, security, or Naruto.
 
-### My story
+### My Journey
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+While my story is still unfolding, I am excited about the opportunities that lie ahead. If you share similar interests, let's connect and explore together.
